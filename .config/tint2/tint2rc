@@ -19,7 +19,7 @@ background_color_pressed = #000000 60
 border_color_pressed = #000000 30
 
 # Background 2: Default task, Iconified task
-rounded = 4
+rounded = 7
 border_width = 1
 border_sides = TBLR
 border_content_tint_weight = 0
@@ -32,20 +32,20 @@ background_color_pressed = #001870 4
 border_color_pressed = #001cad 44
 
 # Background 3: Active task
-rounded = 4
+rounded = 9
 border_width = 1
 border_sides = TBLR
 border_content_tint_weight = 0
 background_content_tint_weight = 0
-background_color = #0a1271 47
+background_color = #0a1271 69
 border_color = #0000ff 77
-background_color_hover = #1113a9 27
-border_color_hover = #000887 44
-background_color_pressed = #555555 4
+background_color_hover = #0000CF 48
+border_color_hover = #0009FF 88
+background_color_pressed = #000042 33
 border_color_pressed = #2632a3 44
 
 # Background 4: Urgent task
-rounded = 4
+rounded = 7
 border_width = 1
 border_sides = TBLR
 border_content_tint_weight = 0
