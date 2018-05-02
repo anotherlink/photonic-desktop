@@ -1,0 +1,2 @@
+#include "/usr/share/rofi/themes/photonic.rasi"
+rofi.theme: /usr/share/rofi/themes/photonic.rasi
